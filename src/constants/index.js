@@ -99,7 +99,7 @@ import {
       iconBg: "#383E56",
       date: "January 2023 - Febrary 2023",
       points: [
-        "Developing and maintaining Software applications using Java and other related technologies.",
+        " Software applications using Java and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Participating in testing Application and providing constructive feedback to other developers.",
       ],
